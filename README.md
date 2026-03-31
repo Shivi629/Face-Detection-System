@@ -2,20 +2,20 @@
 A Simple Face detection system
 
 
-📌 Face Detection System
+##  Face Detection System
 
 This project is a simple real-time face detection system built using Python and OpenCV. It uses a pre-trained Haar Cascade classifier to detect human faces from webcam video.
 
-🚀 Features
+## Features
 Real-time face detection
 Works using webcam
 Detects multiple faces
 Lightweight and fast
 
-🛠️ Requirements
+## Requirements
 Python 3.x
 
-OpenCV
+### OpenCV
 
 Install OpenCV:
 pip install opencv-python
@@ -26,7 +26,7 @@ cd face-detection
 ## Run the program:
 python face_detection.py
 
-##📷 How it Works
+## How it Works
 The webcam captures video
 Each frame is converted to grayscale
 Haar Cascade detects faces
@@ -42,7 +42,7 @@ Requires good lighting
 Cannot recognize faces (only detects them)
 
 
-🔮 Future Improvements
+## Future Improvements
 Add face recognition
 Improve accuracy using deep learning
 Add GUI
