@@ -26,6 +26,10 @@ cd face-detection
 ## Run the program:
 python face_detection.py
 
+## To Exit the Program
+run the cmd in your terminal
+shift + c
+
 ## How it Works
 The webcam captures video
 Each frame is converted to grayscale
